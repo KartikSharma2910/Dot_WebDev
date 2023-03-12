@@ -1,0 +1,97 @@
+React Js Notes
+
+- Used for creating UI
+- Learn JS refresher before beginning with react
+
+Why should I use React JS
+
+1.  Js is based on imperative approach (We need to define everything step by step) 
+    - First create
+    - Then Define
+    - Then execute
+    - More effort and time is consumed 
+2.  React Js is based on declarative approach (We just need to tell what we want) 
+    - We don’t need to worry how everything is working
+    - SPA (Single page application / Only 1 HTML page (changed dynamically))
+    - React is like recursion 
+    - We need to write less code
+    - Component based architecture (Modular Code)
+    - Function == Component (In react)
+
+Benefits of Modular Code / React Js
+
+- Reusable Code
+- Less Duplication of data.
+- Follows DRY concept (Do not repeat yourself)
+- SOC (Separation of concern (Things are separated accordingly))
+- Easily Readable  
+- Easily Manageable
+
+Moto of 1st Class
+
+- React - Syntax - (JSX)
+- React is all about components
+- How to pass data in components ? 
+- Component = Reusable piece of code / Reusable building blocks of UI
+
+
+Components in React 
+- Piece of code which is used again and again (like we make functions in other language)
+
+More from React
+
+#1st Way to setup react
+
+1.  Install Node Js
+2. Visual Studio Code
+3. Install react using command (npx create-react-app first-app)
+4. npm start (To run the app on server)
+
+#2nd Way to setup react
+
+- Using repel (directly on browser)
+- https://github.com/thepranaygupta/react-tailwind-css-starter-pack (Use this starter pack)
+
+
+# Package Json File
+
+- It is a file where all the dependency and script are defined with their version.
+- All the 3rd party files and library are in node modules folder
+
+# Index Js File
+
+- Entry point of React (This is the first file which will be executed)
+- We need to import files to use them.
+- Create root element in HTML and then  make a element in index Js file
+- Then root.render(<App/>)
+- Everything will be rendered inside app component
+
+# Src folder
+
+- All the development will be done here
+- Root element lies in index.html file in public folder
+
+# npm I command is used to install all dependency.
+
+ 
+JSX - Javascript XML (Special syntax to write HTML and javascript together).
+
+
+Browser doesn’t understand React JS
+
+- It is converted to normal browser understandable code
+- Converted by Compiler
+- Browser only understand (HTML , CSS, Javascript)
+
+Do you know ?
+- Why we use className instead of class in react?
+    - Because class is a reserved keyword in javascript  (Interesting 😁)
+
+
+# What is JSX ?
+- It is basically HTML code inside javascript
+- npm start command convert JSX to browser readable format
+
+  
+
+

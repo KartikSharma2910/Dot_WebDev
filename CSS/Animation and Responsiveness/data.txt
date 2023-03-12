@@ -1,0 +1,24 @@
+Function in Css
+- It is a entity in which i give input and get output. (Input -> function -> Output)
+
+- rgb() -> function for colors
+- scale()
+- translate()
+- transform()
+- gradient()
+
+Animation Functions
+ 1. calc()
+ 2. --variable_name (this is used to declare variable in CSS) 
+
+ How to define global variable in CSS ?
+
+ -> :root{
+    // define all variable here
+ }
+
+Transitions in CSS
+- Transition timing
+- Transition function
+- Transition delay
+- Transition property
