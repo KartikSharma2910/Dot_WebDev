@@ -93,5 +93,16 @@ Do you know ?
 - npm start command convert JSX to browser readable format
 
   
+# useState Hook
+ - Return an array with two variable [value,setFunction]
+
+# Homework
+ - why const in useState
+ - how setFunction of useState works ?
+
+(Works immediately or it is schedulded) ?
+
+
+
 
 
